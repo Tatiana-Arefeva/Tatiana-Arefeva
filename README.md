@@ -24,6 +24,7 @@ BI-аналитик с фокусом на анализе данных и виз
 | **Визуализация** | Дашборды, storytelling |
 
 ---
+
 ## 📂 Проекты
 
 ### 📊 Анализ продаж (Power BI)
@@ -40,7 +41,7 @@ BI-аналитик с фокусом на анализе данных и виз
 - Обнаружены зоны снижения прибыли
 - Сформулированы рекомендации для бизнеса
 
-🔗 [github.com/Tatiana-Arefeva/sales-dashboard](https://github.com/Tatiana-Arefeva/sales-dashboard)
+🔗 [https://github.com/Tatiana-Arefeva/sales-dashboard](https://github.com/Tatiana-Arefeva/sales-dashboard)
 
 ---
 
@@ -58,8 +59,7 @@ BI-аналитик с фокусом на анализе данных и виз
 - Найдены периоды снижения активности
 - Предложены направления для роста продукта
 
-🔗 [github.com/Tatiana-Arefeva/sql-metrics-project](https://github.com/Tatiana-Arefeva/sql-metrics-project)
-
+🔗 [https://github.com/Tatiana-Arefeva/sql-metrics-project](https://github.com/Tatiana-Arefeva/sql-metrics-project)
 
 ---
 
@@ -80,7 +80,7 @@ BI-аналитик с фокусом на анализе данных и виз
 
 ## 📫 Контакты
 
-- **GitHub:** [github.com/Tatiana-Arefeva](https://github.com/Tatiana-Arefeva)
+- **GitHub:** [https://github.com/Tatiana-Arefeva](https://github.com/Tatiana-Arefeva)
 - **Telegram:** [@tat934](https://t.me/tat934)
 
 ---
