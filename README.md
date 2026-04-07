@@ -45,6 +45,7 @@
 - **Telegram:** [@tat934](https://t.me/tat934)
 - **GitHub:** [github.com/Tatiana-Arefeva](https://github.com/Tatiana-Arefeva)
 - **Статус:** открыта для предложений о работе
+- ![](https://komarev.com/ghpvc/?username=Tatiana-Arefeva&color=blue&style=flat-square)
 
 ---
 
