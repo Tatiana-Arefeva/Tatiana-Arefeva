@@ -23,7 +23,11 @@
 
 ---
 
-## 📊 Портфолио
+## 📁 Мои проекты
+
+- **Power BI (анализ продаж):** [github.com/Tatiana-Arefeva/sales-dashboard](https://github.com/Tatiana-Arefeva/sales-dashboard)
+- **SQL + DataLens (доставка еды):** [github.com/Tatiana-Arefeva/sql-metrics-project](https://github.com/Tatiana-Arefeva/sql-metrics-project)
+
 
 ### Анализ продаж — дашборд в Power BI
 
